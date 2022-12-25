@@ -36,7 +36,7 @@
 <summary>:bulb: Github Stats</summary>
 <img src='https://github-readme-stats.vercel.app/api?username=murators53&theme=radical'>
 </details>
-
+ 
 <br /> 
 
 <details>
