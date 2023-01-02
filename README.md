@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Murat Örsoğlu</h1>
-<h3 align="center">A passionate Frontend Developer and Computer Engineering from Turkey</h3>
+<h3 align="center">A passionate Frontend React Developer and Computer Engineering from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
  
 
