@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redux, React, Typescript**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/muratorsoglu/](www.linkedin.com/in/muratorsoglu/)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/muratorsoglu](www.linkedin.com/in/muratorsoglu)
 
 - 💬 Ask me about ** React, Redux Toolkit, Frontend**
 
