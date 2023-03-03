@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muratorsoglu/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="https://www.linkedin.com/in/murat-%c3%b6rso%c4%9flu-1881a41bb/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muratorsoglu/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349436/linkedin.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/muratorsss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muratorsss" height="30" width="40" /></a>
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orsoglumurat@gmail.com)](mailto:orsoglumurat@gmail.com)
