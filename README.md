@@ -33,11 +33,11 @@
  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/>
  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+ <img src="https://www.svgrepo.com/show/349502/sass.svg" alt="sass" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/452202/figma.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase" width="40" height="40"/> 
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
