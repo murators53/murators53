@@ -43,7 +43,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/349374/git.svg" alt="typescript" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/373701/jest-snapshot.svg" alt="jest" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/jpb06/jpb06/master/icons/Jest.svg" alt="typescript" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bNvb_fLzWahi5LPmbFIS_A.png" alt="testinglibrary" width="40" height="40"/>
  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/trello-icon.png" alt="c" width="40" height="40"/> 
 </p>
 
