@@ -38,7 +38,7 @@
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="figma" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase" width="40" height="40"/> 
- <img src="[https://www.svgrepo.com/show/373701/jest-snapshot.svg](https://www.svgrepo.com/show/373623/git.svg)" alt="git" width="40" height="40"/>
+ <img src="https://www.svgrepo.com/show/373623/git.svg" alt="git" width="40" height="40"/>
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
