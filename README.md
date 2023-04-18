@@ -3,9 +3,6 @@
 <h3 align="center">A passionate Frontend React Developer and Computer Engineering </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
  
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=murators53&label=Profile%20views&color=0e75b6&style=flat" alt="murators53" /> </p>
-
  🌱 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.
  👨‍💻 Problem solving, which is the solution point of problems in order to improve myself, excites me. I like to produce analytical solutions.
  🧳 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.
