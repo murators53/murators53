@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murators53&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="murators53" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murators53&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="murators53" /> </p>
  
  🌱 I work as a React Front End Developer developer and keep learning new frameworks. And I follow the latest technologies.
  
